@@ -15,7 +15,7 @@
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img align="center" alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-    <img align="center" alt="azure" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg/style=for-the-badge]https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css&logo=microsoft-azure&logoColor=white" />
+    <img align="center" alt="azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg/style=for-the-badge&logo=microsoft-azure&logoColor=white" />
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
 
